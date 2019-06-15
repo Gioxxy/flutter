@@ -8,8 +8,8 @@
 
 import 'dart:collection';
 
-import 'package:flutter/foundation.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:flutter_web/foundation.dart';
+import 'package:flutter_web/cupertino.dart';
 import 'package:intl/intl.dart' as intl;
 
 import '../cupertino_localizations.dart';
