@@ -4,8 +4,8 @@
 
 import 'dart:async';
 
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/foundation.dart';
+import 'package:flutter_web/cupertino.dart';
+import 'package:flutter_web/foundation.dart';
 import 'package:intl/intl.dart' as intl;
 import 'package:intl/date_symbols.dart' as intl;
 
